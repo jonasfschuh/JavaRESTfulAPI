@@ -2,6 +2,6 @@ package io.github.jonasfschuh.JavaRESTFulApi.domain.model;
 
 import jakarta.persistence.Entity;
 
-@Entity(name = "news")
+@Entity(name = "tb_news")
 public class News extends BaseItem {
 }

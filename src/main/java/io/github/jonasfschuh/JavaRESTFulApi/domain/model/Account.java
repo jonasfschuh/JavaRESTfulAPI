@@ -3,7 +3,7 @@ package io.github.jonasfschuh.JavaRESTFulApi.domain.model;
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 
-@Entity(name = "account")
+@Entity(name = "tb_account")
 public class Account {
 
     @Id
@@ -18,7 +18,7 @@ public class Account {
     @Column(scale = 13, precision = 2)
     private BigDecimal balance;
 
-    @Column(scale = 13, precision = 2)
+    @Column(name = "additional_limit", scale = 13, precision = 2)
     private BigDecimal limit;
 
     public Long getId() {
