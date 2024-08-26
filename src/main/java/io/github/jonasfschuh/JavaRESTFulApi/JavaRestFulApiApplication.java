@@ -8,7 +8,7 @@ public class JavaRestFulApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaRestFulApiApplication.class, args);
-
+        //test
 	}
 
 }
