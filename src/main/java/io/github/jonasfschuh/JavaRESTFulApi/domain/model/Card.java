@@ -1,7 +1,6 @@
 package io.github.jonasfschuh.JavaRESTFulApi.domain.model;
 
 import jakarta.persistence.*;
-
 import java.math.BigDecimal;
 
 @Entity(name = "card")
