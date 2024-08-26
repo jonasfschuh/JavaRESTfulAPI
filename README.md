@@ -1,7 +1,7 @@
 # JavaRESTFulApi
 Java RESTFul API with Spring Boot 3, Java 17, PostgreSQL, Railway
 
-## Diagrama de classes 
+## Class diagram 
 
 [mermaid](https://mermaid.js.org/intro/)
 
