@@ -1,6 +1,12 @@
 # JavaRESTFulApi
 Java RESTFul API with Spring Boot 3, Java 17, PostgreSQL, Railway
 
+Interface for testing with swagger-ui
+[swagger-ui](http://localhost:8080/swagger-ui/index.html)
+
+Database - admin/admin
+[h2](http://localhost:8080/h2-console)
+
 ## Class diagram 
 
 [mermaid](https://mermaid.js.org/intro/)
