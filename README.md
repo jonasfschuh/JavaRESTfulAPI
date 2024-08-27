@@ -163,6 +163,26 @@ When contributing to this project, please follow the existing code style, [commi
 
 ## Screenshots
 
+Railway dashboard with CI/CD from github.
+
+Every time a push is made to the main branch of the repository, the application is compiled and deployed automatically.
+![railway dashboard](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/railway_dashboard.gif?raw=true&sanitize=true) 
+
+Log details
+![Log details](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/logs_details.gif?raw=true&sanitize=true)
+
+Postgres running on railway
+![Postgres running on railway](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/postgres%20running%20on%20railway.gif?raw=true&sanitize=true)
+
+Public network to access application. 
+![Public network to access application](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/public%20network%20to%20access%20application.gif?raw=true&sanitize=true)
+
+Retrieve a list of all registered users example
+![Retrieve a list of all registered users example](https://github.com/jonasfschuh/JavaRESTfulAPI/blob/main/docs/img/Retrieve%20a%20list%20of%20all%20registered%20users%20example.gif?raw=true&sanitize=true)
+
+
+
+
 
 
 
