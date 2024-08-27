@@ -72,7 +72,7 @@ https://jfs-2024-api-prd.up.railway.app/swagger-ui/index.html
 
 ## Class-diagram
 
-Classe gerada no padrão mermaid https://mermaid.js.org/intro/
+Class generated in the mermaid pattern https://mermaid.js.org/intro/
 
 ```mermaid
 classDiagram
