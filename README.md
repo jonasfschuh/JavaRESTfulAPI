@@ -149,9 +149,9 @@ The API provides the following endpoints:
 
 ```markdown
     GET /users/{id} - Retrieve a specific user base on its ID
+    GET /users - Retrieve a list of all registered users 
     PUT /users/{id} - Update the data of an existing user based on its ID
- DELETE /users/{id} - Delete an existing user based on its ID
-    GET /users - Retrieve a list of all registered users
+ DELETE /users/{id} - Delete an existing user based on its ID     
    POST /users - Create a new user and return the create user´s data
 ```
 
